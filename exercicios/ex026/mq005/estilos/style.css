@@ -21,7 +21,7 @@ header > h1 {
 }
 
 i#burguer {
-    background-color: rgb(59, 59, 59);
+    background-color: #3b3b3b;
     color: white;
     display: block;
     text-align: center;
